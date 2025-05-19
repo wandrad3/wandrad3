@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Java Developer
 ---------------------
 
-Sou desenvolvedor Java Sênior apaixonado por soluções escaláveis e boas práticas de código. - 🔭 Atualmente trabalhando com arquitetura em microserviços - 🌱 Estudando: AWS, Docker e Kubernetes - 💬 Me pergunte sobre: Java, Spring Boot, testes e boas práticas - ⚡ Curiosidade: Amo resolver problemas de performance e automatização
+Sou desenvolvedor Java Sênior apaixonado por soluções escaláveis e boas práticas de código. - 🔭 Atualmente trabalhando com arquitetura em microserviços - 💬 Me pergunte sobre: Java, Spring Boot, testes e boas práticas - ⚡ Curiosidade: Amo resolver problemas de performance e automatização
 
 *   🌍  I'm based in São Paulo, SP
 *   ✉️  You can contact me at [wesleyandrade298@gmail.com](mailto:wesleyandrade298@gmail.com)
